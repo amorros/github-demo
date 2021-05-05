@@ -1,0 +1,9 @@
+Tienes que crear una aplicación de gestión de un videoclub.
+
+La idea es generar un servicio backend de gestión en Spring Boot. La interfaz gráfica no es necesaria. Bastará con una API REST con la que comunicarse mediante Postman o CURL. 
+
+El videoclub debe poder gestionar películas y clientes. Los clientes pueden alquilar películas y devolverlas. También deben poder consultar las películas disponibles para alquilar.
+
+Dejo a tu criterio qué datos almacenar tanto de películas como de clientes. 
+
+Organiza la aplicación en una arquitectura de capas Controller / Service / DAO
